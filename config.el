@@ -21,7 +21,7 @@
 ;; See 'C-h v doom-font' for documentation and more examples of what they
 ;; accept. For example:
 ;;
-(setq doom-font (font-spec :family "FiraCode Nerd Font" :size 13 :weight 'semibold)
+(setq doom-font (font-spec :family "FiraCode Nerd Font" :size 14 :weight 'medium)
       doom-variable-pitch-font (font-spec :family "Alegreya" :size 13))
 
 (custom-set-faces!
